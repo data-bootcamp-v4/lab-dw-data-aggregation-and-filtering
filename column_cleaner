@@ -1,0 +1,4 @@
+def column_cleaner(df):
+    new_cols = [col.lower().rstrip().replace(" ","_") for col in df.columns]
+    new_cols[1] = 'state'
+    df.columns = new_cols

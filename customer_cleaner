@@ -1,0 +1,40 @@
+def customer_cleaner(df):
+    def column_cleaner(df):
+        new_cols = [col.lower().rstrip().replace(" ","_") for col in df.columns]
+        new_cols[1] = 'state'
+        df.columns = new_cols
+
+    def gender_cleaner(df):
+        df.gender = df.gender.replace(to_replace = ["female","Femal"], value = "F")
+        df.gender = df.gender.replace(to_replace = ["Male"], value = "M")
+        df.gender = df.gender.fillna("NA")
+
+    def complaint_cleaner(df):
+        df["number_of_open_complaints"] = df["number_of_open_complaints"].astype('str')
+        df["number_of_open_complaints"] = df["number_of_open_complaints"].apply(lambda x: x[2])
+        df["number_of_open_complaints"] = df["number_of_open_complaints"].replace(to_replace = "n", value = "NaN")
+        df["number_of_open_complaints"] = df["number_of_open_complaints"].astype('float64')
+
+    def state_cleaner(df):
+        df.state = df.state.replace(to_replace = ["AZ", "WA", "Cali"], value = ["Arizona", "Washington", "California"])
+
+    def clv_cleaner(df):
+        df['customer_lifetime_value'] = df['customer_lifetime_value'].str.rstrip('%')
+        df.customer_lifetime_value = df.customer_lifetime_value.astype('float64')
+        df.customer_lifetime_value = df.customer_lifetime_value.fillna(df.customer_lifetime_value.mean())
+
+    def vehicle_cleaner(df):
+        df.vehicle_class = df.vehicle_class.replace(to_replace = ["Sports Car", "Luxury SUV", "Luxury Car"], value = "Luxury")
+
+    def education_cleaner(df):
+        df.education = df.education.replace(to_replace = "Bachelors", value = "Bachelor")
+
+    def float_to_int(df):
+        for elem in df.columns:
+            if df[elem].dtype == 'float64':
+                df[elem] = df[elem].round(0).astype('int64')
+
+    def drop_tail(df):
+        df = df.drop(df.tail(2937).index)
+    
+    return df
