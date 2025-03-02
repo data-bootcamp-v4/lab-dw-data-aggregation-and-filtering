@@ -1,0 +1,68 @@
+unnamed:_0,customer,state,customer_lifetime_value,response,coverage,education,effective_to_date,employmentstatus,gender,income,location_code,marital_status,monthly_premium_auto,months_since_last_claim,months_since_policy_inception,number_of_open_complaints,number_of_policies,policy_type,policy,renew_offer_type,sales_channel,total_claim_amount,vehicle_class,vehicle_size,vehicle_type
+189,OK31456,California,11009.13049,Yes,Premium,Bachelor,1/24/11,Employed,F,51643,Suburban,Single,283,16.0,43,0.0,1,Corporate Auto,Corporate L3,Offer2,Agent,1358.4,Luxury Car,Medsize,A
+236,YJ16163,Oregon,11009.13049,Yes,Premium,Bachelor,1/24/11,Employed,F,51643,Suburban,Single,283,16.0,43,0.0,1,Special Auto,Special L3,Offer2,Agent,1358.4,Luxury Car,Medsize,A
+419,GW43195,Oregon,25807.063,Yes,Extended,College,2/13/11,Employed,F,71210,Suburban,Married,214,8.0,89,1.0,2,Personal Auto,Personal L2,Offer1,Branch,1027.2,Luxury Car,Small,A
+442,IP94270,Arizona,13736.1325,Yes,Premium,Master,2/13/11,Disabled,F,16181,Suburban,Divorced,181,22.0,79,0.0,8,Personal Auto,Personal L2,Offer1,Web,1261.319869,SUV,Medsize,A
+587,FJ28407,California,5619.689084,Yes,Premium,High School or Below,1/26/11,Unemployed,M,0,Suburban,Married,153,25.0,5,0.0,1,Personal Auto,Personal L1,Offer2,Web,1027.000029,SUV,Medsize,A
+654,VV47792,California,25807.063,Yes,Extended,College,2/13/11,Employed,F,71210,Suburban,Married,214,8.0,89,1.0,2,Personal Auto,Personal L3,Offer1,Branch,1027.2,Luxury Car,Small,A
+680,QL45827,Washington,25807.063,Yes,Extended,College,2/13/11,Employed,F,71210,Suburban,Married,214,8.0,89,1.0,2,Personal Auto,Personal L1,Offer1,Branch,1027.2,Luxury Car,Small,A
+815,MA15172,California,10179.71704,Yes,Premium,Bachelor,1/5/11,Retired,F,14290,Suburban,Married,271,20.0,40,0.0,1,Personal Auto,Personal L2,Offer1,Agent,1300.8,Luxury SUV,Medsize,A
+1276,WA45944,Arizona,25807.063,Yes,Extended,College,2/13/11,Employed,F,71210,Suburban,Married,214,8.0,89,1.0,2,Corporate Auto,Corporate L3,Offer1,Branch,1027.2,Luxury Car,Small,A
+1390,FJ28407,California,5619.689084,Yes,Premium,High School or Below,1/26/11,Unemployed,M,0,Suburban,Married,153,14.0,5,0.0,1,Personal Auto,Personal L1,Offer2,Web,1027.000029,SUV,Medsize,A
+1422,YK65946,Oregon,8427.172486,Yes,Extended,Bachelor,2/10/11,Employed,F,46503,Suburban,Divorced,215,4.0,21,1.0,1,Personal Auto,Personal L3,Offer1,Agent,1032.0,Luxury SUV,Medsize,A
+1527,TU53781,Oregon,8427.172486,Yes,Extended,Bachelor,2/10/11,Employed,F,46503,Suburban,Divorced,215,4.0,21,1.0,1,Corporate Auto,Corporate L3,Offer1,Agent,1032.0,Luxury SUV,Medsize,A
+1570,VL84149,Oregon,25807.063,Yes,Extended,College,2/13/11,Employed,F,71210,Suburban,Married,214,8.0,89,1.0,2,Corporate Auto,Corporate L2,Offer1,Branch,1027.2,Luxury Car,Small,A
+1629,UH35128,Oregon,25807.063,Yes,Extended,College,2/13/11,Employed,F,71210,Suburban,Married,214,8.0,89,1.0,2,Personal Auto,Personal L2,Offer1,Branch,1027.2,Luxury Car,Small,A
+1638,ZV80216,Oregon,5619.689084,Yes,Premium,High School or Below,1/26/11,Unemployed,M,0,Suburban,Married,153,25.0,5,0.0,1,Personal Auto,Personal L1,Offer2,Web,1027.000029,SUV,Medsize,A
+1753,FG29932,California,7840.165778,Yes,Extended,College,1/14/11,Employed,M,58414,Suburban,Single,210,7.0,24,2.0,1,Special Auto,Special L2,Offer2,Agent,1008.0,Luxury SUV,Small,A
+1809,QO62792,Oregon,7840.165778,Yes,Extended,College,1/14/11,Employed,M,58414,Suburban,Single,210,7.0,24,2.0,1,Personal Auto,Personal L3,Offer2,Agent,1008.0,Luxury SUV,Small,A
+1856,ZA45956,California,13736.1325,Yes,Premium,Master,2/13/11,Disabled,F,16181,Suburban,Divorced,181,22.0,79,0.0,8,Personal Auto,Personal L2,Offer1,Web,1261.319869,SUV,Medsize,A
+2027,TA66375,Oregon,11009.13049,Yes,Premium,Bachelor,1/24/11,Employed,F,51643,Suburban,Single,283,16.0,43,0.0,1,Corporate Auto,Corporate L2,Offer2,Agent,1358.4,Luxury Car,Medsize,A
+2125,JC11405,Oregon,10963.95723,Yes,Premium,High School or Below,2/8/11,Employed,M,55687,Suburban,Divorced,276,33.0,91,0.0,1,Personal Auto,Personal L3,Offer1,Agent,1324.8,Luxury SUV,Medsize,A
+2340,YE24562,California,3508.569533,Yes,Extended,College,1/5/11,Medical Leave,M,20978,Suburban,Married,98,19.0,96,1.0,1,Personal Auto,Personal L3,Offer2,Branch,1176.2788,Four-Door Car,Small,A
+2364,TC88986,Oregon,5619.689084,Yes,Premium,High School or Below,1/26/11,Unemployed,M,0,Suburban,Married,153,25.0,5,0.0,1,Special Auto,Special L1,Offer2,Web,1027.000029,SUV,Medsize,A
+2865,FH77504,California,11009.13049,Yes,Premium,Bachelor,1/24/11,Employed,F,51643,Suburban,Single,283,16.0,43,0.0,1,Personal Auto,Personal L3,Offer2,Agent,1358.4,Luxury Car,Medsize,A
+3346,UY18770,California,10179.71704,Yes,Premium,Bachelor,1/5/11,Retired,F,14290,Suburban,Married,271,20.0,40,0.0,1,Personal Auto,Personal L3,Offer1,Agent,1300.8,Luxury SUV,Medsize,A
+3934,ZW93288,California,19160.98994,Yes,Extended,Master,2/20/11,Employed,F,22705,Suburban,Divorced,239,19.0,59,0.0,7,Personal Auto,Personal L1,Offer2,Agent,1294.700423,Luxury SUV,Medsize,A
+3958,KC26486,Arizona,8427.172486,Yes,Extended,Bachelor,2/10/11,Employed,F,46503,Suburban,Divorced,215,4.0,21,1.0,1,Personal Auto,Personal L2,Offer1,Agent,1032.0,Luxury SUV,Medsize,A
+4284,GA72966,Oregon,8427.172486,Yes,Extended,Bachelor,2/10/11,Employed,F,46503,Suburban,Divorced,215,4.0,21,1.0,1,Personal Auto,Personal L3,Offer1,Agent,1032.0,Luxury SUV,Medsize,A
+4358,CG15505,California,19160.98994,Yes,Extended,Master,2/20/11,Employed,F,22705,Suburban,Divorced,239,19.0,59,0.0,7,Personal Auto,Personal L3,Offer2,Agent,1294.700423,Luxury SUV,Medsize,A
+4440,QW47320,California,10179.71704,Yes,Premium,Bachelor,1/5/11,Retired,F,14290,Suburban,Married,271,20.0,40,0.0,1,Personal Auto,Personal L1,Offer1,Agent,1300.8,Luxury SUV,Medsize,A
+4475,WP58340,Arizona,10963.95723,Yes,Premium,High School or Below,2/8/11,Employed,M,55687,Suburban,Divorced,276,33.0,91,0.0,1,Personal Auto,Personal L2,Offer1,Agent,1324.8,Luxury SUV,Medsize,A
+4521,LT72149,Nevada,5619.689084,Yes,Premium,High School or Below,1/26/11,Unemployed,M,0,Suburban,Married,153,25.0,5,0.0,1,Personal Auto,Personal L2,Offer2,Web,1027.000029,SUV,Medsize,A
+4566,TC99043,California,13736.1325,Yes,Premium,Master,2/13/11,Disabled,F,16181,Suburban,Divorced,181,22.0,79,0.0,8,Personal Auto,Personal L2,Offer1,Web,1261.319869,SUV,Medsize,A
+5013,GP83239,California,7840.165778,Yes,Extended,College,1/14/11,Employed,M,58414,Suburban,Single,210,7.0,24,2.0,1,Personal Auto,Personal L3,Offer2,Agent,1008.0,Luxury SUV,Small,A
+5331,UT48216,Nevada,7840.165778,Yes,Extended,College,1/14/11,Employed,M,58414,Suburban,Single,210,7.0,24,2.0,1,Personal Auto,Personal L1,Offer2,Agent,1008.0,Luxury SUV,Small,A
+5489,TQ84956,California,10963.95723,Yes,Premium,High School or Below,2/8/11,Employed,M,55687,Suburban,Divorced,276,33.0,91,0.0,1,Corporate Auto,Corporate L3,Offer1,Agent,1324.8,Luxury SUV,Medsize,A
+5577,FN44127,Oregon,3508.569533,Yes,Extended,College,1/5/11,Medical Leave,M,20978,Suburban,Married,98,19.0,96,1.0,1,Personal Auto,Personal L2,Offer2,Branch,1176.2788,Four-Door Car,Medsize,A
+5896,TY31217,Washington,11009.13049,Yes,Premium,Bachelor,1/24/11,Employed,F,51643,Suburban,Single,283,16.0,43,0.0,1,Personal Auto,Personal L3,Offer2,Agent,1358.4,Luxury Car,Medsize,A
+5987,MO21402,Oregon,13736.1325,Yes,Premium,Master,2/13/11,Disabled,F,16181,Suburban,Divorced,181,22.0,79,0.0,8,Personal Auto,Personal L3,Offer1,Web,1261.319869,SUV,Medsize,A
+6342,NZ60700,Washington,10963.95723,Yes,Premium,High School or Below,2/8/11,Employed,M,55687,Suburban,Divorced,276,33.0,91,0.0,1,Personal Auto,Personal L2,Offer1,Agent,1324.8,Luxury SUV,Medsize,A
+6601,RO89785,Oregon,3508.569533,Yes,Extended,College,1/5/11,Medical Leave,M,20978,Suburban,Married,98,19.0,96,1.0,1,Personal Auto,Personal L3,Offer2,Branch,1176.2788,Four-Door Car,Small,A
+7255,PN98247,California,7840.165778,Yes,Extended,College,1/14/11,Employed,M,58414,Suburban,Single,210,7.0,24,2.0,1,Personal Auto,Personal L3,Offer2,Agent,1008.0,Luxury SUV,Small,A
+7340,JL21509,California,3508.569533,Yes,Extended,College,1/5/11,Medical Leave,M,20978,Suburban,Married,98,19.0,96,1.0,1,Personal Auto,Personal L3,Offer2,Branch,1176.2788,Four-Door Car,Small,A
+7480,ZR79373,Arizona,10179.71704,Yes,Premium,Bachelor,1/5/11,Retired,F,14290,Suburban,Married,271,20.0,40,0.0,1,Personal Auto,Personal L3,Offer1,Agent,1300.8,Luxury SUV,Medsize,A
+7989,UU42868,California,5619.689084,Yes,Premium,High School or Below,1/26/11,Unemployed,M,0,Suburban,Married,153,25.0,5,0.0,1,Corporate Auto,Corporate L2,Offer2,Web,1027.000029,SUV,Medsize,A
+8264,KC26486,Arizona,8427.172486,Yes,Extended,Bachelor,2/10/11,Employed,F,46503,Suburban,Divorced,215,14.0,21,0.0,1,Personal Auto,Personal L2,Offer1,Agent,1032.0,Luxury SUV,Medsize,A
+8340,MJ51323,Oregon,8427.172486,Yes,Extended,Bachelor,2/10/11,Employed,F,46503,Suburban,Divorced,215,4.0,21,1.0,1,Personal Auto,Personal L2,Offer1,Agent,1032.0,Luxury SUV,Medsize,A
+8367,AJ89108,California,11009.13049,Yes,Premium,Bachelor,1/24/11,Employed,F,51643,Suburban,Single,283,16.0,43,0.0,1,Personal Auto,Personal L3,Offer2,Agent,1358.4,Luxury Car,Medsize,A
+8420,MT27589,Oregon,7840.165778,Yes,Extended,College,1/14/11,Employed,M,58414,Suburban,Single,210,7.0,24,2.0,1,Corporate Auto,Corporate L1,Offer2,Agent,1008.0,Luxury SUV,Small,A
+8425,UP29839,Nevada,19160.98994,Yes,Extended,Master,2/20/11,Employed,F,22705,Suburban,Divorced,239,19.0,59,0.0,7,Personal Auto,Personal L1,Offer2,Agent,1294.700423,Luxury SUV,Medsize,A
+8505,DT77901,Oregon,10179.71704,Yes,Premium,Bachelor,1/5/11,Retired,F,14290,Suburban,Married,271,20.0,40,0.0,1,Personal Auto,Personal L3,Offer1,Agent,1300.8,Luxury SUV,Medsize,A
+8510,QE79527,California,8427.172486,Yes,Extended,Bachelor,2/10/11,Employed,F,46503,Suburban,Divorced,215,4.0,21,1.0,1,Personal Auto,Personal L1,Offer1,Agent,1032.0,Luxury SUV,Medsize,A
+8659,TY31217,Washington,11009.13049,Yes,Premium,Bachelor,1/24/11,Employed,F,51643,Suburban,Single,283,16.0,43,0.0,1,Personal Auto,Personal L3,Offer2,Agent,1358.4,Four-Door Car,Medsize,A
+8662,YU86361,Washington,19160.98994,Yes,Extended,Master,2/20/11,Employed,F,22705,Suburban,Divorced,239,19.0,59,0.0,7,Personal Auto,Personal L1,Offer2,Agent,1294.700423,Luxury SUV,Medsize,A
+8802,MC30750,Oregon,13736.1325,Yes,Premium,Master,2/13/11,Disabled,F,16181,Suburban,Divorced,181,22.0,79,0.0,8,Personal Auto,Personal L2,Offer1,Web,1261.319869,SUV,Medsize,A
+8835,XT93203,California,10963.95723,Yes,Premium,High School or Below,2/8/11,Employed,M,55687,Suburban,Divorced,276,33.0,91,0.0,1,Personal Auto,Personal L3,Offer1,Agent,1324.8,Luxury SUV,Medsize,A
+9326,MS18916,California,3508.569533,Yes,Extended,College,1/5/11,Medical Leave,M,20978,Suburban,Married,98,19.0,96,1.0,1,Personal Auto,Personal L1,Offer2,Branch,1176.2788,Four-Door Car,Small,A
+9329,WP58340,Arizona,10963.95723,Yes,Premium,High School or Below,2/8/11,Employed,M,55687,Suburban,Divorced,276,14.0,91,0.0,1,Personal Auto,Personal L2,Offer1,Agent,1324.8,Luxury SUV,Medsize,A
+9498,IV54766,Oregon,19160.98994,Yes,Extended,Master,2/20/11,Employed,F,22705,Suburban,Divorced,239,19.0,59,0.0,7,Personal Auto,Personal L1,Offer2,Agent,1294.700423,Luxury SUV,Medsize,A
+9581,GD55093,California,19160.98994,Yes,Extended,Master,2/20/11,Employed,F,22705,Suburban,Divorced,239,19.0,59,0.0,7,Personal Auto,Personal L1,Offer2,Agent,1294.700423,Luxury SUV,Medsize,A
+10009,YP53257,Oregon,10179.71704,Yes,Premium,Bachelor,1/5/11,Retired,F,14290,Suburban,Married,271,20.0,40,0.0,1,Personal Auto,Personal L3,Offer1,Agent,1300.8,Luxury SUV,Medsize,A
+10210,VL84149,Oregon,25807.063,Yes,Extended,College,2/13/11,Employed,F,71210,Suburban,Married,214,8.0,89,1.0,2,Corporate Auto,Corporate L2,Offer1,Branch,1027.2,Four-Door Car,Medsize,A
+10237,FD73388,Arizona,13736.1325,Yes,Premium,Master,2/13/11,Disabled,F,16181,Suburban,Divorced,181,22.0,79,0.0,8,Personal Auto,Personal L3,Offer1,Web,1261.319869,SUV,Medsize,A
+10351,FN44127,Oregon,3508.569533,Yes,Extended,College,1/5/11,Medical Leave,M,20978,Suburban,Married,98,19.0,96,1.0,1,Personal Auto,Personal L2,Offer2,Branch,1176.2788,Four-Door Car,Small,A
+10373,XZ64172,Oregon,10963.95723,Yes,Premium,High School or Below,2/8/11,Employed,M,55687,Suburban,Divorced,276,33.0,91,0.0,1,Corporate Auto,Corporate L2,Offer1,Agent,1324.8,Luxury SUV,Medsize,A
+10487,IX60941,Oregon,3508.569533,Yes,Extended,College,1/5/11,Medical Leave,M,20978,Suburban,Married,98,19.0,96,1.0,1,Personal Auto,Personal L3,Offer2,Branch,1176.2788,Four-Door Car,Small,A
+10565,QO62792,Oregon,7840.165778,Yes,Extended,College,1/14/11,Employed,M,58414,Suburban,Single,210,7.0,24,2.0,1,Personal Auto,Personal L3,Offer2,Agent,1008.0,Four-Door Car,Medsize,A
+10708,CK39096,Oregon,5619.689084,Yes,Premium,High School or Below,1/26/11,Unemployed,M,0,Suburban,Married,153,25.0,5,0.0,1,Personal Auto,Personal L3,Offer2,Web,1027.000029,SUV,Medsize,A
